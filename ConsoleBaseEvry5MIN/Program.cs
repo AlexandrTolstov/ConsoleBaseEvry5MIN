@@ -11,5 +11,9 @@ namespace ConsoleBaseEvry5MIN
         static void Main(string[] args)
         {
         }
+        public static void getCurrency()
+        {
+
+        }
     }
 }
